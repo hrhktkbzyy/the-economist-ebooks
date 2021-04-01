@@ -1,7 +1,20 @@
 # 经济学人、纽约客、自然等外刊杂志下载
 ---------------------
 
-**声明:** 本项目资源均来自 [emagazine.link](https://emagazine.link/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源, 如需下载、订阅相关杂志可移步上述网站.
+## 一、阅读器推荐
+
+<a href="https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github" target="_blank">
+<img src="https://pic2.zhimg.com/v2-2158f25799daf1cc82b8c88286d58709_1440w.jpg" width="640px"/>
+</a>
+
+* EReader - 英阅阅读器, 可以阅读海量优质英文原著、经济学人、纽约客等杂志的App, 点击[这里进入官网](https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github) 。
+
+---------------------
+
+## 二、内容分类
+
+**声明:** 本项目资源均来自 [emagazine.link](https://emagazine.link/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源, 如需下载、订阅相关杂志可移步上述网站或下载[EReader 阅读器App](https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github) .
+
 
 * [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.03.27) , 每周五十一点更新
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2021.03.29) , 每周六上午更新
@@ -24,7 +37,8 @@
 
 
 -------------------------------------
-## 二、阅读器说明
+## 三、其他阅读器
 
 1. epub 格式的电子书可以安装 [多看阅读](https://www.duokan.com/product) ,  通过 `wifi传书功能` 通过浏览器将电子书传入到阅读器中, 然后就可以进行阅读;
 2. mobi 格式的电子书需要使用 `kindle设备` 或者在电脑、手机上安装 [kindle 阅读app](https://www.amazon.cn/kindle-dbs/fd/kcp/ref=sv_kinc_0)
+
