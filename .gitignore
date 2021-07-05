@@ -1,5 +1,6 @@
 .sync/
 *.recipe
+nohup.out
 *.sh
 *.bk
 *.py

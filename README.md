@@ -8,6 +8,8 @@
 </a>
 
 * EReader - 英阅阅读器, 可以阅读海量优质英文原著、经济学人、纽约客等杂志的App, 点击[这里进入官网](https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github) 。
+* 英阅阅读器 - 可阅读海量优质英文原著小说, 以及经济学人、纽约客等外刊杂志的App, 支持mdict词典,点击[这里进入官网](https://ereader.link/?utm_source=github&utm_medium=github&utm_campaign=github) 。
+* 背背单词 - 真题语境高效背单词,支持英、法、日语, mdict词典,点击[这里下载](https://www.coolapk.com/apk/285007) 。
 
 ---------------------
 
